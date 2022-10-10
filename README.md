@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jankurfurst
 - 👀 I’m interested in C# (ASP.Net), Python (for fun), PHP (Laravel) and learning new stuff.
-- 🌱 I’m currently learning C# for game development.
+- 🌱 I’m currently ...
 
 <!---
 jankurfurst/jankurfurst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
